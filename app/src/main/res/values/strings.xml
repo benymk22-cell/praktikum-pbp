@@ -12,4 +12,10 @@
     <string name="Show_toast">Show Toast</string>
     <string name="Open_website_implicit_intent">Open Website (Implicit Intent)</string>
     <string name="Profile_photo">profile_photo</string>
+    <string name="hello_user">Hello_world</string>
+    <string name="open_form_explicit_intent">open_form_explicit_intent</string>
+    <string name="Status_active">Status_active</string>
+    <string name="open_website_implicit_inten">Open Website (Implicit Inten)</string>
+    <string name="open_form_explicit_intentt">Open Form (Explicit ingtent)</string>
+    <string name="open_website_implicit_intentt">Open Website (Implicit Intent)</string>
 </resources>
