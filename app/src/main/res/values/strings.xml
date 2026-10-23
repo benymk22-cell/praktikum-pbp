@@ -5,4 +5,11 @@
     <string name="show_toast">Show Toast</string>
     <string name="open_from_explicit_intent">Open From (Explicit Intent)</string>
     <string name="open_website_implicit_intent">OPen Website (IMplicit Intent)</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="hello_users">Hello,Users!</string>
+    <string name="status_active">Status: Active</string>
+    <string name="Input_name">Input Name</string>
+    <string name="Show_toast">Show Toast</string>
+    <string name="Open_website_implicit_intent">Open Website (Implicit Intent)</string>
+    <string name="Profile_photo">profile_photo</string>
 </resources>
