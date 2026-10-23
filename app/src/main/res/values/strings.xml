@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">praktikum1</string>
+    <string name="hallo_user">hallo user</string>
+    <string name="input_name">Input Name</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="open_from_explicit_intent">Open From (Explicit Intent)</string>
+    <string name="open_website_implicit_intent">OPen Website (IMplicit Intent)</string>
 </resources>
